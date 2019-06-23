@@ -118,3 +118,13 @@ GPLv3
 This software uses the following projects (licensed under GPLv3):
 - NFLlib
 - FV-NFLlib
+
+Owners: Md Nazmus Sadat, Md Nazmus Sadat, Xiaoqian Jiang, Noman Mohammed
+
+#### Publication:
+Secure and Efficient Regression Analysis using a Hybrid Cryptographic Framework.
+Md Nazmus Sadat, Xiaoqian Jiang, Md Momin Al Aziz, Shuang Wang, and Noman Mohammed.
+JMIR Medical Informatics , 6(1): e14, 2018.
+
+#### Disclaimer:
+The software is provided as-is with no warranty or support. We do not take any responsibility for any damage, loss of income, or any problems you might experience from using our software. If you have questions, you are encouraged to consult the paper and the source code. If you find our software useful, please cite our paper above.
